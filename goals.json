@@ -72,10 +72,6 @@
 	},
 
 	{
-		"name": "Complete the tutorial"
-	},
-
-	{
 		"name": "Craft something"
 	},
 
@@ -89,10 +85,6 @@
 
 	{
 		"name": "Make $1,000,000"
-	},
-
-	{
-		"name": "Level up"
 	},
 
 	{
@@ -220,10 +212,6 @@
 	},
 
 	{
-		"name": "Glitch out of bounds"
-	},
-
-	{
 		"name": "Explode yourself"
 	},
 
@@ -264,11 +252,7 @@
 	},
 
 	{
-		"name": "Step on a landmine"
-	},
-
-	{
-		"name": "Escape a prison cell"
+		"name": "Escape from prison"
 	},
 
 	{
@@ -304,7 +288,7 @@
 	},
 
 	{
-		"name": "Fill your inventory"
+		"name": "Fill entire inventory"
 	},
 
 	{
@@ -344,10 +328,6 @@
 	},
 
 	{
-		"name": "Lose everything by gambling"
-	},
-
-	{
 		"name": "Flush a toilet"
 	},
 
@@ -381,10 +361,6 @@
 
 	{
 		"name": "Roll a dice"
-	},
-
-	{
-		"name": "Deal critical damage"
 	},
 
 	{
@@ -452,15 +428,7 @@
 	},
 
 	{
-		"name": "Step on a trap"
-	},
-
-	{
 		"name": "Catch a projectile/thrown item"
-	},
-
-	{
-		"name": "Fill entire inventory"
 	},
 
 	{
@@ -596,15 +564,7 @@
 	},
 
 	{
-		"name": "Go to space"
-	},
-
-	{
 		"name": "Command an army"
-	},
-
-	{
-		"name": "Perform a transformation"
 	},
 
 	{
@@ -744,10 +704,6 @@
 	},
 
 	{
-		"name": "Win at gambling"
-	},
-
-	{
 		"name": "Find God"
 	},
 
@@ -773,5 +729,652 @@
 
 	{
 		"name": "Get cursed"
+	},
+
+	{
+		"name": "Buy 3 items from a shop"
+	},
+
+	{
+		"name": "Defeat an enemy using only punches"
+	},
+
+	{
+		"name": "Obtain 3 extra lives"
+	},
+
+	{
+		"name": "Take a photo"
+	},
+
+	{
+		"name": "Do a critical hit"
+	},
+
+	{
+		"name": "Flee from a battle"
+	},
+
+	{
+		"name": "Drown"
+	},
+
+	{
+		"name": "Complete a prologue/tutorial"
+	},
+
+	{
+		"name": "Defeat a knight"
+	},
+
+	{
+		"name": "Defeat an enemy using only kicks"
+	},
+
+	{
+		"name": "Complete an autoscroll section"
+	},
+
+	{
+		"name": "Obtain a potion"
+	},
+
+	{
+		"name": "Do a dance"
+	},
+
+	{
+		"name": "Defeat a pirate"
+	},
+
+	{
+		"name": "Do a goal"
+	},
+
+	{
+		"name": "Press a button"
+	},
+
+	{
+		"name": "Touch a cloud"
+	},
+
+	{
+		"name": "Touch lava"
+	},
+
+	{
+		"name": "Climb to the summit of a mountain"
+	},
+
+	{
+		"name": "Turn the lights on"
+	},
+
+	{
+		"name": "Pull a lever"
+	},
+
+	{
+		"name": "Collect 100 yellow/golden items"
+	},
+
+	{
+		"name": "Obtain a card"
+	},
+
+	{
+		"name": "Drain an enemy bar"
+	},
+
+	{
+		"name": "Complete a bonus/special stage"
+	},
+
+	{
+		"name": "Defeat 15 unique enemies"
+	},
+
+	{
+		"name": "Place a mine"
+	},
+
+	{
+		"name": "Take fall damage and survive"
+	},
+
+	{
+		"name": "Pop a balloon"
+	},
+
+	{
+		"name": "Defeat a spider"
+	},
+
+	{
+		"name": "Obtain a fruit"
+	},
+
+	{
+		"name": "Level up to 4"
+	},
+
+	{
+		"name": "Weapon upgrade"
+	},
+
+	{
+		"name": "Defeat a bat"
+	},
+
+	{
+		"name": "Enter a forest/jungle"
+	},
+
+	{
+		"name": "Enter a village"
+	},
+
+	{
+		"name": "Use a key"
+	},
+
+	{
+		"name": "Talk to a kid"
+	},
+
+	{
+		"name": "Enter a castle"
+	},
+
+	{
+		"name": "Enter a desert"
+	},
+
+	{
+		"name": "Talk to royalty"
+	},
+
+	{
+		"name": "Talk to a King or Princess"
+	},
+
+	{
+		"name": "Talk to a scientist"
+	},
+
+	{
+		"name": "New partner or party member"
+	},
+
+	{
+		"name": "Go to the beach"
+	},
+
+	{
+		"name": "Use a water bucket"
+	},
+
+	{
+		"name": "Cook food"
+	},
+
+	{
+		"name": "Enter a snowy/icy area"
+	},
+
+	{
+		"name": "New vehicle"
+	},
+
+	{
+		"name": "Restore an ally's health"
+	},
+
+	{
+		"name": "Open and go through a portal"
+	},
+
+	{
+		"name": "Gamble"
+	},
+
+	{
+		"name": "Melee weapon upgrade"
+	},
+
+	{
+		"name": "Win a race"
+	},
+
+	{
+		"name": "Enter an inn/hotel"
+	},
+
+	{
+		"name": "Disturb the bees"
+	},
+
+	{
+		"name": "Defeat a slime"
+	},
+
+	{
+		"name": "Restore air with a bubble"
+	},
+
+	{
+		"name": "Wear a mask"
+	},
+
+	{
+		"name": "Enter temple/ruins"
+	},
+
+	{
+		"name": "Escape from prison"
+	},
+
+	{
+		"name": "Destroy an enemy vehicle"
+	},
+
+	{
+		"name": "Enter strong wind currents"
+	},
+
+	{
+		"name": "Obtain a new hat"
+	},
+
+	{
+		"name": "Go down to a basement"
+	},
+
+	{
+		"name": "Climb a tree"
+	},
+
+	{
+		"name": "Obtain an explosive"
+	},
+
+	{
+		"name": "Enter a volcano"
+	},
+
+	{
+		"name": "Armor/Defense upgrade"
+	},
+
+	{
+		"name": "Combine two objects"
+	},
+
+	{
+		"name": "Repair something"
+	},
+
+	{
+		"name": "Learn a magical ability"
+	},
+
+	{
+		"name": "Obtain a hammer"
+	},
+
+	{
+		"name": "Take damage from your own attack"
+	},
+
+	{
+		"name": "Open 5 different chests"
+	},
+
+	{
+		"name": "Destroy/move a rock"
+	},
+
+	{
+		"name": "Boots/Shoes upgrade"
+	},
+
+	{
+		"name": "Enter outer space"
+	},
+
+	{
+		"name": "Go through a floating ring"
+	},
+
+	{
+		"name": "Light a fire"
+	},
+
+	{
+		"name": "Ride an electric elevator"
+	},
+
+	{
+		"name": "Exit a tunnel/gallery"
+	},
+
+	{
+		"name": "Ride a bike/motorbike"
+	},
+
+	{
+		"name": "Catch a thief/criminal"
+	},
+
+	{
+		"name": "Kill a snake or worm"
+	},
+
+	{
+		"name": "Learn an ability involving water"
+	},
+
+	{
+		"name": "Get covered in goo or mud"
+	},
+
+	{
+		"name": "Pick up and read a document"
+	},
+
+	{
+		"name": "Plant a seed/plant"
+	},
+
+	{
+		"name": "Ranged weapon upgrade"
+	},
+
+	{
+		"name": "100k points"
+	},
+
+	{
+		"name": "Hit a traditional target"
+	},
+
+	{
+		"name": "Learn a password"
+	},
+
+	{
+		"name": "Reach the speed of 88mph"
+	},
+
+	{
+		"name": "Obtain a jewel/gem"
+	},
+
+	{
+		"name": "Change world/planet"
+	},
+
+	{
+		"name": "Shoot a cannon"
+	},
+
+	{
+		"name": "Increase max health"
+	},
+
+	{
+		"name": "Obtain an area map"
+	},
+
+	{
+		"name": "Interact with a friendly cat or dog"
+	},
+
+	{
+		"name": "Buy 5 unique items from a shop"
+	},
+
+	{
+		"name": "Complete a stealth section"
+	},
+
+	{
+		"name": "Encounter an alien"
+	},
+
+	{
+		"name": "Turn on TV/PC"
+	},
+
+	{
+		"name": "Drive a tractor/truck"
+	},
+
+	{
+		"name": "Learn an ability involving fire"
+	},
+
+	{
+		"name": "Ride a snowboard/ski"
+	},
+
+	{
+		"name": "Complete a rollercoaster/minecart ride"
+	},
+
+	{
+		"name": "Rescue an NPC"
+	},
+
+	{
+		"name": "Bring an animal into a fenced area"
+	},
+
+	{
+		"name": "Trigger a trap"
+	},
+
+	{
+		"name": "Defeat an insect boss"
+	},
+
+	{
+		"name": "Defeat a ghost"
+	},
+
+	{
+		"name": "Defeat a king"
+	},
+
+	{
+		"name": "Craft a weapon or armor"
+	},
+
+	{
+		"name": "Complete a world"
+	},
+
+	{
+		"name": "Learn how to shrink"
+	},
+
+	{
+		"name": "Stun an enemy"
+	},
+
+	{
+		"name": "Defeat an enemy with a super or ultra attack"
+	},
+
+	{
+		"name": "Outrun a large rolling object"
+	},
+
+	{
+		"name": "Save a princess"
+	},
+
+	{
+		"name": "Complete a quick time event session"
+	},
+
+	{
+		"name": "Put on a disguise"
+	},
+
+	{
+		"name": "Defeat a shapeshifter"
+	},
+
+	{
+		"name": "Defeat your rival/dark-side"
+	},
+
+	{
+		"name": "Ride a flying animal"
+	},
+
+	{
+		"name": "Ride a ship"
+	},
+
+	{
+		"name": "Feed an animal"
+	},
+
+	{
+		"name": "Ride a train"
+	},
+
+	{
+		"name": "Obtain ability to warp"
+	},
+
+	{
+		"name": "Learn how to dig"
+	},
+
+	{
+		"name": "Utilize a bubble"
+	},
+
+	{
+		"name": "Break the ice"
+	},
+
+	{
+		"name": "Use a grappling hook"
+	},
+
+	{
+		"name": "Enter a cemetery"
+	},
+
+	{
+		"name": "Manipulate time"
+	},
+
+	{
+		"name": "Change the water level"
+	},
+
+	{
+		"name": "Transform into an animal"
+	},
+
+	{
+		"name": "Win a fight with a minion"
+	},
+
+	{
+		"name": "Go down a well"
+	},
+
+	{
+		"name": "Flip gravity"
+	},
+
+	{
+		"name": "Defeat a vampire"
+	},
+
+	{
+		"name": "Defeat three bosses"
+	},
+
+	{
+		"name": "Revive a character"
+	},
+
+	{
+		"name": "Pass through a fake wall/floor"
+	},
+
+	{
+		"name": "Shoot down a flying helicopter/plane"
+	},
+
+	{
+		"name": "Obtain the ability to walk underwater"
+	},
+
+	{
+		"name": "Gain control of an enemy"
+	},
+
+	{
+		"name": "Learn an ability involving wind"
+	},
+
+	{
+		"name": "Learn an ability involving earth/grass"
+	},
+
+	{
+		"name": "Take a photo of a supernatural being"
+	},
+
+	{
+		"name": "New playable character"
+	},
+
+	{
+		"name": "Transition into having 100 HP"
+	},
+
+	{
+		"name": "Capture/conquer an area"
+	},
+
+	{
+		"name": "Clean something dirty"
+	},
+
+	{
+		"name": "Get a gold crown"
+	},
+
+	{
+		"name": "Win a tournament"
+	},
+
+	{
+		"name": "Beat a game"
+	},
+
+	{
+		"name": "Stay in the air for at least 7 seconds"
+	},
+
+	{
+		"name": "Defeat a boss without taking damage"
+	},
+
+	{
+		"name": "Hatch an egg"
+	},
+	{
+		"name": "Catch an insect or a fish"
 	}
 ]
