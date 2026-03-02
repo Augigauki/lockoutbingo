@@ -1,0 +1,777 @@
+[
+	{
+		"name": "Go through a portal"
+	},
+
+	{
+		"name": "Kill yourself 5 times"
+	},
+
+	{
+		"name": "Fully explore a map"
+	},
+
+	{
+		"name": "Find an egg"
+	},
+
+	{
+		"name": "Win the game"
+	},
+
+	{
+		"name": "Jump over 10 cactuses"
+	},
+
+	{
+		"name": "Kill a zombie"
+	},
+
+	{
+		"name": "Get an upgrade"
+	},
+
+	{
+		"name": "Put on a helmet"
+	},
+
+	{
+		"name": "Kill a dragon"
+	},
+
+	{
+		"name": "Catch a fish"
+	},
+
+	{
+		"name": "Use a jetpack"
+	},
+
+	{
+		"name": "Get a headshot with a sniper"
+	},
+
+	{
+		"name": "Eat 10 different things"
+	},
+
+	{
+		"name": "Make a trade"
+	},
+
+	{
+		"name": "Become invisible"
+	},
+
+	{
+		"name": "Ride an animal"
+	},
+
+	{
+		"name": "Kill a person"
+	},
+
+	{
+		"name": "Complete the tutorial"
+	},
+
+	{
+		"name": "Craft something"
+	},
+
+	{
+		"name": "Grow and harvest a crop"
+	},
+
+	{
+		"name": "Sit down"
+	},
+
+	{
+		"name": "Make $1,000,000"
+	},
+
+	{
+		"name": "Level up"
+	},
+
+	{
+		"name": "Get a pet"
+	},
+
+	{
+		"name": "Score a goal"
+	},
+
+	{
+		"name": "Serve a customer"
+	},
+
+	{
+		"name": "Light a furnace"
+	},
+
+	{
+		"name": "Defeat a boss"
+	},
+
+	{
+		"name": "Commit arson (burn down someone's house)"
+	},
+
+	{
+		"name": "Build a house"
+	},
+
+	{
+		"name": "Cast a spell"
+	},
+
+	{
+		"name": "Drink a potion"
+	},
+
+	{
+		"name": "Find a frog"
+	},
+
+	{
+		"name": "Find a crossover event between two games"
+	},
+
+	{
+		"name": "Do a backflip"
+	},
+
+	{
+		"name": "Blow up a bomb"
+	},
+
+	{
+		"name": "Build a turret"
+	},
+
+	{
+		"name": "Fly a spaceship"
+	},
+
+	{
+		"name": "Kill something using the environment"
+	},
+
+	{
+		"name": "Travel one kilometer"
+	},
+
+	{
+		"name": "Win a Battle Royale"
+	},
+
+	{
+		"name": "Play an instrument"
+	},
+
+	{
+		"name": "Steal treasure"
+	},
+
+	{
+		"name": "Kill a friendly NPC"
+	},
+
+	{
+		"name": "See a ghost"
+	},
+
+	{
+		"name": "Win a 1v1 (online)"
+	},
+
+	{
+		"name": "Go to the moon"
+	},
+
+	{
+		"name": "Use a shovel"
+	},
+
+	{
+		"name": "Use a computer in-game"
+	},
+
+	{
+		"name": "Crawl through a tunnel"
+	},
+
+	{
+		"name": "Play a game within a game"
+	},
+
+	{
+		"name": "Complete a side quest for an NPC"
+	},
+
+	{
+		"name": "Fly over a forest"
+	},
+
+	{
+		"name": "Build a campfire"
+	},
+
+	{
+		"name": "Glitch out of bounds"
+	},
+
+	{
+		"name": "Explode yourself"
+	},
+
+	{
+		"name": "Kill 10 of the same thing"
+	},
+
+	{
+		"name": "Sleep through the night"
+	},
+
+	{
+		"name": "Have a machine craft something for you"
+	},
+
+	{
+		"name": "Soft lock yourself"
+	},
+
+	{
+		"name": "Plant a tree, and watch it grow"
+	},
+
+	{
+		"name": "Shoot yourself"
+	},
+
+	{
+		"name": "Suffocate"
+	},
+
+	{
+		"name": "Ride a boat"
+	},
+
+	{
+		"name": "Create a creature"
+	},
+
+	{
+		"name": "Step on a landmine"
+	},
+
+	{
+		"name": "Escape a prison cell"
+	},
+
+	{
+		"name": "Climb a wall"
+	},
+
+	{
+		"name": "Enslave a creature"
+	},
+
+	{
+		"name": "Get a trophy"
+	},
+
+	{
+		"name": "Get a perfect score"
+	},
+
+	{
+		"name": "Have a pet/companion kill something"
+	},
+
+	{
+		"name": "Find a dinosaur"
+	},
+
+	{
+		"name": "Make a meal"
+	},
+
+	{
+		"name": "Set every slider to max"
+	},
+
+	{
+		"name": "Fill your inventory"
+	},
+
+	{
+		"name": "Take off your shirt"
+	},
+
+	{
+		"name": "Open a treasure chest"
+	},
+
+	{
+		"name": "Punch an enemy"
+	},
+
+	{
+		"name": "Get to exactly one health"
+	},
+
+	{
+		"name": "Get shot"
+	},
+
+	{
+		"name": "Draw a card"
+	},
+
+	{
+		"name": "Use magic"
+	},
+
+	{
+		"name": "Starve to death"
+	},
+
+	{
+		"name": "Unlock a cosmetic"
+	},
+
+	{
+		"name": "Lose everything by gambling"
+	},
+
+	{
+		"name": "Flush a toilet"
+	},
+
+	{
+		"name": "Pet a dog"
+	},
+
+	{
+		"name": "Go Back in time"
+	},
+
+	{
+		"name": "Draw a pretty picture"
+	},
+
+	{
+		"name": "Do a lap in a race"
+	},
+
+	{
+		"name": "Get in an ocean"
+	},
+
+	{
+		"name": "Solve a puzzle"
+	},
+
+	{
+		"name": "Go on a date"
+	},
+
+	{
+		"name": "Roll a dice"
+	},
+
+	{
+		"name": "Deal critical damage"
+	},
+
+	{
+		"name": "Reach the credits through gameplay"
+	},
+
+	{
+		"name": "Fail a quest"
+	},
+
+	{
+		"name": "Name a pet"
+	},
+
+	{
+		"name": "Kill the final boss"
+	},
+
+	{
+		"name": "Fall to your death"
+	},
+
+	{
+		"name": "Climb a ladder"
+	},
+
+	{
+		"name": "Parry an attack"
+	},
+
+	{
+		"name": "Automate something indefinitely"
+	},
+
+	{
+		"name": "Reach an in-game save point (not save & quit)"
+	},
+
+	{
+		"name": "Become intoxicated (drunk)"
+	},
+
+	{
+		"name": "Drink water"
+	},
+
+	{
+		"name": "Get full armor"
+	},
+
+	{
+		"name": "Acquire honey"
+	},
+
+	{
+		"name": "Get physically bigger"
+	},
+
+	{
+		"name": "Become blinded (even temporarily)"
+	},
+
+	{
+		"name": "Become poisoned"
+	},
+
+	{
+		"name": "Step on a trap"
+	},
+
+	{
+		"name": "Catch a projectile/thrown item"
+	},
+
+	{
+		"name": "Fill entire inventory"
+	},
+
+	{
+		"name": "Paint or dye something"
+	},
+
+	{
+		"name": "Break one of your limbs"
+	},
+
+	{
+		"name": "Crash a game"
+	},
+
+	{
+		"name": "Die in 3 different ways in a single game"
+	},
+
+	{
+		"name": "Restore health"
+	},
+
+	{
+		"name": "Touch grass"
+	},
+
+	{
+		"name": "Hit the world border/invisible wall"
+	},
+
+	{
+		"name": "Set yourself on fire"
+	},
+
+	{
+		"name": "Find an easter egg"
+	},
+
+	{
+		"name": "Find a glitch"
+	},
+
+	{
+		"name": "Get a kill streak"
+	},
+
+	{
+		"name": "Spend all your money"
+	},
+
+	{
+		"name": "Open a door"
+	},
+
+	{
+		"name": "Fight a bird"
+	},
+
+	{
+		"name": "Hold a creature in your hand"
+	},
+
+	{
+		"name": "Crash a car"
+	},
+
+	{
+		"name": "Stand on a rooftop"
+	},
+
+	{
+		"name": "Use a yo-yo"
+	},
+
+	{
+		"name": "Teabag a fallen foe"
+	},
+
+	{
+		"name": "Get an extra life"
+	},
+
+	{
+		"name": "Fast travel"
+	},
+
+	{
+		"name": "Make a phone call"
+	},
+
+	{
+		"name": "Skip a cutscene"
+	},
+
+	{
+		"name": "Watch a cutscene"
+	},
+
+	{
+		"name": "Sit on a bench"
+	},
+
+	{
+		"name": "Cut down a tree"
+	},
+
+	{
+		"name": "Electrocute yourself"
+	},
+
+	{
+		"name": "Emote"
+	},
+
+	{
+		"name": "See your character's reflection in a mirror (no cutscenes)"
+	},
+
+	{
+		"name": "Hitless a boss"
+	},
+
+	{
+		"name": "Get something labeled as Rare"
+	},
+
+	{
+		"name": "Get an item name that starts with the letter Q"
+	},
+
+	{
+		"name": "Kill a hydra"
+	},
+
+	{
+		"name": "Go to space"
+	},
+
+	{
+		"name": "Command an army"
+	},
+
+	{
+		"name": "Perform a transformation"
+	},
+
+	{
+		"name": "Find something behind a waterfall"
+	},
+
+	{
+		"name": "Break glass"
+	},
+
+	{
+		"name": "Alter the flow of traffic"
+	},
+
+	{
+		"name": "Fish up something that's not a fish"
+	},
+
+	{
+		"name": "Complete a skillcheck"
+	},
+
+	{
+		"name": "Ragdoll something"
+	},
+
+	{
+		"name": "Complete a daily challenge"
+	},
+
+	{
+		"name": "Stand on a conveyor belt"
+	},
+
+	{
+		"name": "Have something die of old age"
+	},
+
+	{
+		"name": "Get over-encumbered"
+	},
+
+	{
+		"name": "Beat a roguelike run"
+	},
+
+	{
+		"name": "Get a jumpscare"
+	},
+
+	{
+		"name": "Do a double jump"
+	},
+
+	{
+		"name": "Break an item"
+	},
+
+	{
+		"name": "Jump onto a moving object"
+	},
+
+	{
+		"name": "Read a book"
+	},
+
+	{
+		"name": "Build a bridge"
+	},
+
+	{
+		"name": "Hide in a closet"
+	},
+
+	{
+		"name": "Look in a trash can"
+	},
+
+	{
+		"name": "Dig a hole"
+	},
+
+	{
+		"name": "Get married"
+	},
+
+	{
+		"name": "Assassinate or stealth kill an enemy"
+	},
+
+	{
+		"name": "Go to another dimension"
+	},
+
+	{
+		"name": "See or hear a thunderstorm"
+	},
+
+	{
+		"name": "Cross the entire map"
+	},
+
+	{
+		"name": "Commit a crime"
+	},
+
+	{
+		"name": "Get 10,000 of something"
+	},
+
+	{
+		"name": "Flirt with an NPC"
+	},
+
+	{
+		"name": "Use a shield"
+	},
+
+	{
+		"name": "Buy everything from a shop"
+	},
+
+	{
+		"name": "Get a one of a kind item"
+	},
+
+	{
+		"name": "Capture a creature"
+	},
+
+	{
+		"name": "Find a hidden area"
+	},
+
+	{
+		"name": "Die to a sea creature"
+	},
+
+	{
+		"name": "Win at gambling"
+	},
+
+	{
+		"name": "Find God"
+	},
+
+	{
+		"name": "See blood in-game"
+	},
+
+	{
+		"name": "Get the game to deny you from doing something"
+	},
+
+	{
+		"name": "Kill 10 people without them noticing"
+	},
+
+	{
+		"name": "Make a barricade"
+	},
+
+	{
+		"name": "Clear a dungeon"
+	},
+
+	{
+		"name": "Get cursed"
+	}
+]
